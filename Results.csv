@@ -1,0 +1,1296 @@
+AGE,PSA,FREE_PSA,PREVIOUS_YEAR_PSA,PROSTATE_VOLUME,PIRADS,GLEASON,BIOPSY,DATASET
+48,2.91,NULL,NULL,50,1,0,Benign,Germany
+54,12.3,NULL,NULL,55,2,0,Benign,Germany
+69,5.91,NULL,NULL,37.2,2,0,Benign,Germany
+46,3.02,NULL,NULL,14,2,0,Benign,Germany
+65,5.64,NULL,NULL,102.5,2,0,Benign,Germany
+72,11.81,NULL,NULL,63.8,2,0,Benign,Germany
+66,5.25,NULL,NULL,29.7,2,0,Benign,Germany
+56,6.8,NULL,NULL,21,2,0,Benign,Germany
+58,8.87,NULL,NULL,47,2,0,Benign,Germany
+46,5.35,NULL,NULL,20.6,2,0,Benign,Germany
+45,8.4,NULL,NULL,43,2,0,Benign,Germany
+46,3.2,NULL,NULL,47,2,0,Benign,Germany
+67,15.4,NULL,NULL,133,2,0,Benign,Germany
+47,3.77,NULL,NULL,28,2,0,Benign,Germany
+63,10.21,NULL,NULL,62,2,0,Benign,Germany
+45,5.55,NULL,NULL,33,2,0,Benign,Germany
+51,5,NULL,NULL,45,2,0,Benign,Germany
+61,8.47,NULL,NULL,83,2,0,Benign,Germany
+45,4.09,NULL,NULL,32,2,0,Benign,Germany
+64,4.4,NULL,NULL,107,2,0,Benign,Germany
+61,10.3,NULL,NULL,66,2,0,Benign,Germany
+68,12,NULL,NULL,70,2,0,Benign,Germany
+49,4.79,NULL,NULL,36,2,0,Benign,Germany
+52,9.87,NULL,NULL,83,2,0,Benign,Germany
+49,4.46,NULL,NULL,56,2,0,Benign,Germany
+74,10.07,NULL,NULL,102.4,3,0,Benign,Germany
+68,11.4,NULL,NULL,70.8,3,0,Benign,Germany
+64,5,NULL,NULL,53,3,0,Benign,Germany
+53,6.17,NULL,NULL,72,3,0,Benign,Germany
+65,22.29,NULL,NULL,43.7,3,0,Benign,Germany
+62,15.23,NULL,NULL,71.4,3,0,Benign,Germany
+68,8.2,NULL,NULL,64.7,3,0,Benign,Germany
+67,6.63,NULL,NULL,93,3,0,Benign,Germany
+72,20.8,NULL,NULL,166,3,0,Benign,Germany
+58,8.55,NULL,NULL,55.6,3,0,Benign,Germany
+50,8.03,NULL,NULL,71,3,0,Benign,Germany
+59,13.3,NULL,NULL,111,3,0,Benign,Germany
+53,12.39,NULL,NULL,92.7,3,0,Benign,Germany
+65,10,NULL,NULL,56.9,3,0,Benign,Germany
+63,6.69,NULL,NULL,65.1,3,0,Benign,Germany
+74,6.48,NULL,NULL,114,3,0,Benign,Germany
+74,7.61,NULL,NULL,44.2,3,0,Benign,Germany
+61,7.17,NULL,NULL,67.2,3,0,Benign,Germany
+70,10.2,NULL,NULL,55,3,0,Benign,Germany
+62,16.55,NULL,NULL,104.7,3,0,Benign,Germany
+56,7,NULL,NULL,67.8,3,0,Benign,Germany
+66,8.37,NULL,NULL,95.9,3,0,Benign,Germany
+68,5.96,NULL,NULL,55,3,0,Benign,Germany
+45,6.92,NULL,NULL,60.8,3,0,Benign,Germany
+66,7.03,NULL,NULL,82.8,3,0,Benign,Germany
+59,16.62,NULL,NULL,52.5,3,0,Benign,Germany
+78,4.3,NULL,NULL,36,3,0,Benign,Germany
+56,9.41,NULL,NULL,30,3,0,Benign,Germany
+61,12.45,NULL,NULL,79,3,0,Benign,Germany
+64,15.86,NULL,NULL,115.2,3,0,Benign,Germany
+66,15.54,NULL,NULL,170,3,0,Benign,Germany
+71,8.38,NULL,NULL,59.7,3,0,Benign,Germany
+61,7.69,NULL,NULL,51,3,0,Benign,Germany
+61,7.64,NULL,NULL,53,3,0,Benign,Germany
+74,6.81,NULL,NULL,64.4,3,0,Benign,Germany
+64,14.19,NULL,NULL,120.6,3,0,Benign,Germany
+48,6.3,NULL,NULL,54.2,3,0,Benign,Germany
+68,7.9,NULL,NULL,73,3,0,Benign,Germany
+65,11.72,NULL,NULL,116.6,3,0,Benign,Germany
+65,24,NULL,NULL,82,3,0,Benign,Germany
+65,7.82,NULL,NULL,119,3,0,Benign,Germany
+54,6.65,NULL,NULL,31,3,0,Benign,Germany
+48,6.3,NULL,NULL,54.2,3,0,Benign,Germany
+45,2.8,NULL,NULL,30,3,0,Benign,Germany
+67,10.15,NULL,NULL,96,3,0,Benign,Germany
+56,4.46,NULL,NULL,61,3,0,Benign,Germany
+52,7.17,NULL,NULL,70,3,0,Benign,Germany
+62,9.29,NULL,NULL,84,3,0,Benign,Germany
+68,9,NULL,NULL,63,3,0,Benign,Germany
+63,4.72,NULL,NULL,46,3,0,Benign,Germany
+61,11.2,NULL,NULL,50,3,0,Benign,Germany
+67,5.04,NULL,NULL,65,3,0,Benign,Germany
+62,6.99,NULL,NULL,112,3,0,Benign,Germany
+52,4.97,NULL,NULL,98,3,0,Benign,Germany
+52,4.72,NULL,NULL,33,3,0,Benign,Germany
+63,16.45,NULL,NULL,44,3,0,Benign,Germany
+65,7.82,NULL,NULL,119,3,0,Benign,Germany
+54,10.38,NULL,NULL,45,3,0,Benign,Germany
+68,25,NULL,NULL,140,3,0,Benign,Germany
+50,6.53,NULL,NULL,49,3,0,Benign,Germany
+62,6.86,NULL,NULL,59,3,0,Benign,Germany
+68,6.2,NULL,NULL,91,3,0,Benign,Germany
+75,9.53,NULL,NULL,118,3,0,Benign,Germany
+65,11.72,NULL,NULL,116.6,3,0,Benign,Germany
+74,42.2,NULL,NULL,73,3,0,Benign,Germany
+74,7.81,NULL,NULL,46,3,0,Benign,Germany
+52,11,NULL,NULL,95,3,0,Benign,Germany
+54,4.6,NULL,NULL,25,3,0,Benign,Germany
+79,5.5,NULL,NULL,126,3,0,Benign,Germany
+59,12.13,NULL,NULL,51,3,0,Benign,Germany
+71,18.11,NULL,NULL,114,3,0,Benign,Germany
+71,17,NULL,NULL,40,3,0,Benign,Germany
+62,12.5,NULL,NULL,123,3,0,Benign,Germany
+57,4.93,NULL,NULL,47,3,0,Benign,Germany
+65,14.4,NULL,NULL,88,3,0,Benign,Germany
+58,19.85,NULL,NULL,192,3,0,Benign,Germany
+60,9.66,NULL,NULL,231,3,0,Benign,Germany
+64,3.12,NULL,NULL,63,3,0,Benign,Germany
+55,10.32,NULL,NULL,48,3,0,Benign,Germany
+67,7.12,NULL,NULL,39,3,0,Benign,Germany
+55,7.37,NULL,NULL,36,3,0,Benign,Germany
+45,4.7,NULL,NULL,78,3,0,Benign,Germany
+58,9.86,NULL,NULL,50,3,0,Benign,Germany
+73,7.53,NULL,NULL,76,3,0,Benign,Germany
+50,5.59,NULL,NULL,11,3,0,Benign,Germany
+60,6.06,NULL,NULL,30,3,0,Benign,Germany
+46,7.44,NULL,NULL,40,3,0,Benign,Germany
+63,12.49,NULL,NULL,51,3,0,Benign,Germany
+72,5.1,NULL,NULL,93,3,0,Benign,Germany
+69,12.7,NULL,NULL,87,3,0,Benign,Germany
+68,4.73,NULL,NULL,32,3,0,Benign,Germany
+67,11.69,NULL,NULL,47,3,0,Benign,Germany
+76,9.7,NULL,NULL,51,3,0,Benign,Germany
+57,3.79,NULL,NULL,50,3,0,Benign,Germany
+48,3.72,NULL,NULL,22,3,0,Benign,Germany
+30,16.89,NULL,NULL,89,3,0,Benign,Germany
+73,10.7,NULL,NULL,86,3,0,Benign,Germany
+48,5.11,NULL,NULL,58,3,0,Benign,Germany
+46,8.53,NULL,NULL,48,3,0,Benign,Germany
+52,8.79,NULL,NULL,65,3,0,Benign,Germany
+67,5.98,NULL,NULL,77,3,0,Benign,Germany
+63,8.63,NULL,NULL,40,3,0,Benign,Germany
+64,22,NULL,NULL,109,3,0,Benign,Germany
+68,51.11,NULL,NULL,313,3,0,Benign,Germany
+65,5.55,NULL,NULL,68,3,0,Benign,Germany
+72,12.53,NULL,NULL,132,3,0,Benign,Germany
+67,7.03,NULL,NULL,63,3,0,Benign,Germany
+57,5.45,NULL,NULL,46,3,0,Benign,Germany
+67,8.5,NULL,NULL,155,3,0,Benign,Germany
+60,9.48,NULL,NULL,55,3,0,Benign,Germany
+46,3.75,NULL,NULL,33,3,0,Benign,Germany
+47,3.72,NULL,NULL,39,3,0,Benign,Germany
+46,6.07,NULL,NULL,30,3,0,Benign,Germany
+58,9.6,NULL,NULL,110,3,0,Benign,Germany
+54,4.37,NULL,NULL,48,3,0,Benign,Germany
+69,7.12,NULL,NULL,112,3,0,Benign,Germany
+75,4.66,NULL,NULL,58,3,0,Benign,Germany
+67,19.41,NULL,NULL,51,3,0,Benign,Germany
+56,5.73,NULL,NULL,80,3,0,Benign,Germany
+46,4.96,NULL,NULL,50,3,0,Benign,Germany
+50,7.28,NULL,NULL,65,3,0,Benign,Germany
+78,8,NULL,NULL,56,3,0,Benign,Germany
+55,4.8,NULL,NULL,53,3,0,Benign,Germany
+63,4.34,NULL,NULL,80,3,0,Benign,Germany
+66,5.72,NULL,NULL,29,3,0,Benign,Germany
+53,5,NULL,NULL,43,3,0,Benign,Germany
+47,4.58,NULL,NULL,32,3,0,Benign,Germany
+48,6.92,NULL,NULL,55,3,0,Benign,Germany
+69,25,NULL,NULL,93,3,0,Benign,Germany
+65,7.8,NULL,NULL,94,3,0,Benign,Germany
+51,11.13,NULL,NULL,65,3,0,Benign,Germany
+76,5.69,NULL,NULL,83,3,0,Benign,Germany
+65,6.72,NULL,NULL,43,3,0,Benign,Germany
+49,7.02,NULL,NULL,24,3,0,Benign,Germany
+51,4.38,NULL,NULL,46,3,0,Benign,Germany
+47,3.6,NULL,NULL,36,3,0,Benign,Germany
+56,8.5,NULL,NULL,66,3,0,Benign,Germany
+46,3.8,NULL,NULL,38,3,0,Benign,Germany
+56,5,NULL,NULL,40,3,0,Benign,Germany
+45,10.13,NULL,NULL,35,3,0,Benign,Germany
+61,6.13,NULL,NULL,58,3,0,Benign,Germany
+59,7.37,NULL,NULL,55,3,0,Benign,Germany
+59,7.6,NULL,NULL,64,3,0,Benign,Germany
+48,14,NULL,NULL,58,3,0,Benign,Germany
+49,4.95,NULL,NULL,34,3,0,Benign,Germany
+58,7.8,NULL,NULL,62,3,0,Benign,Germany
+69,11.4,NULL,NULL,153,3,0,Benign,Germany
+67,15,NULL,NULL,24,3,0,Benign,Germany
+57,11.65,NULL,NULL,101,3,0,Benign,Germany
+53,6.96,NULL,NULL,45,3,0,Benign,Germany
+58,7.4,NULL,NULL,34,3,0,Benign,Germany
+66,6.05,NULL,NULL,35,3,0,Benign,Germany
+69,6.11,NULL,NULL,27,3,0,Benign,Germany
+56,7.26,NULL,NULL,49,3,0,Benign,Germany
+50,4.31,NULL,NULL,34,3,0,Benign,Germany
+52,6.05,NULL,NULL,35,3,0,Benign,Germany
+51,5.18,NULL,NULL,28,3,0,Benign,Germany
+59,11.3,NULL,NULL,45,3,0,Benign,Germany
+56,5.4,NULL,NULL,51,3,0,Benign,Germany
+48,18.03,NULL,NULL,45,3,0,Benign,Germany
+75,4.84,NULL,NULL,79,3,0,Benign,Germany
+68,3.5,NULL,NULL,25,3,0,Benign,Germany
+72,15,NULL,NULL,99,3,0,Benign,Germany
+78,6.9,NULL,NULL,75,3,0,Benign,Germany
+69,21.6,NULL,NULL,126,3,0,Benign,Germany
+54,12,NULL,NULL,129,3,0,Benign,Germany
+69,4.62,NULL,NULL,21.6,3,0,Benign,Germany
+64,6.49,NULL,NULL,21.7,3,0,Benign,Germany
+67,12.53,NULL,NULL,81,3,0,Benign,Germany
+62,11.86,NULL,NULL,61,3,0,Benign,Germany
+67,6.97,NULL,NULL,47,3,0,Benign,Germany
+64,23,NULL,NULL,69,3,0,Benign,Germany
+53,14.2,NULL,NULL,66,3,0,Benign,Germany
+71,11.6,NULL,NULL,80,3,0,Benign,Germany
+56,13.5,NULL,NULL,66,3,0,Benign,Germany
+54,7.28,NULL,NULL,83,3,0,Benign,Germany
+69,3.91,NULL,NULL,30,3,0,Benign,Germany
+62,5.88,NULL,NULL,68,4,0,Benign,Germany
+68,6.31,NULL,NULL,46.7,4,0,Benign,Germany
+80,NULL,NULL,NULL,NULL,4,0,Benign,Germany
+65,3.26,NULL,NULL,39.3,4,0,Benign,Germany
+69,7.4,NULL,NULL,49,4,0,Benign,Germany
+54,6.2,NULL,NULL,66,4,0,Benign,Germany
+55,3.26,NULL,NULL,79.7,4,0,Benign,Germany
+63,11.92,NULL,NULL,73.4,4,0,Benign,Germany
+53,5.4,NULL,NULL,33.6,4,0,Benign,Germany
+72,12.7,NULL,NULL,130,4,0,Benign,Germany
+82,11.4,NULL,NULL,70.8,4,0,Benign,Germany
+56,7.56,NULL,NULL,53.1,4,0,Benign,Germany
+53,12.48,NULL,NULL,62.9,4,0,Benign,Germany
+68,6.31,NULL,NULL,46.7,4,0,Benign,Germany
+64,9.28,NULL,NULL,89,4,0,Benign,Germany
+55,6.7,NULL,NULL,50.6,4,0,Benign,Germany
+63,5.98,NULL,NULL,32.7,4,0,Benign,Germany
+58,5.5,NULL,NULL,39.7,4,0,Benign,Germany
+54,13,NULL,NULL,62.4,4,0,Benign,Germany
+58,19,NULL,NULL,116,4,0,Benign,Germany
+70,21,NULL,NULL,50.8,4,0,Benign,Germany
+56,7.55,NULL,NULL,23.8,4,0,Benign,Germany
+56,16.54,NULL,NULL,93.5,4,0,Benign,Germany
+56,18.47,NULL,NULL,61,4,0,Benign,Germany
+74,3.7,NULL,NULL,21.1,4,0,Benign,Germany
+66,10.58,NULL,NULL,45,4,0,Benign,Germany
+57,5.9,NULL,NULL,39.7,4,0,Benign,Germany
+68,6.43,NULL,NULL,69.6,4,0,Benign,Germany
+49,6.17,NULL,NULL,52.9,4,0,Benign,Germany
+61,31.55,NULL,NULL,124.7,4,0,Benign,Germany
+64,7.01,NULL,NULL,37.4,4,0,Benign,Germany
+56,11.28,NULL,NULL,88.8,4,0,Benign,Germany
+59,9.41,NULL,NULL,102.4,4,0,Benign,Germany
+56,8.87,NULL,NULL,41.6,4,0,Benign,Germany
+68,6.93,NULL,NULL,47,4,0,Benign,Germany
+54,6.33,NULL,NULL,90.2,4,0,Benign,Germany
+67,4.66,NULL,NULL,29.1,4,0,Benign,Germany
+57,13,NULL,NULL,26.6,4,0,Benign,Germany
+68,3.76,NULL,NULL,39,4,0,Benign,Germany
+62,12.87,NULL,NULL,49.3,4,0,Benign,Germany
+68,16.09,NULL,NULL,99,4,0,Benign,Germany
+60,4.88,NULL,NULL,49,4,0,Benign,Germany
+57,17.1,NULL,NULL,70.9,4,0,Benign,Germany
+80,5.63,NULL,NULL,41.7,4,0,Benign,Germany
+64,8.89,NULL,NULL,46.5,4,0,Benign,Germany
+66,3.92,NULL,NULL,48,4,0,Benign,Germany
+72,6.73,NULL,NULL,71.1,4,0,Benign,Germany
+63,4.41,NULL,NULL,45,4,0,Benign,Germany
+56,9.25,NULL,NULL,81,4,0,Benign,Germany
+47,31.02,NULL,NULL,52,4,0,Benign,Germany
+74,NULL,NULL,NULL,NULL,4,0,Benign,Germany
+58,7.1,NULL,NULL,47,4,0,Benign,Germany
+58,25.06,NULL,NULL,65,4,0,Benign,Germany
+54,22.23,NULL,NULL,37,4,0,Benign,Germany
+55,12.01,NULL,NULL,58.8,4,0,Benign,Germany
+44,11.2,NULL,NULL,99,4,0,Benign,Germany
+76,11.6,NULL,NULL,59,4,0,Benign,Germany
+69,9.25,NULL,NULL,81,4,0,Benign,Germany
+45,21,NULL,NULL,73,4,0,Benign,Germany
+65,7.1,NULL,NULL,55,4,0,Benign,Germany
+70,8.15,NULL,NULL,34,4,0,Benign,Germany
+70,6.27,NULL,NULL,42,4,0,Benign,Germany
+52,9.06,NULL,NULL,22,4,0,Benign,Germany
+51,10.25,NULL,NULL,80,4,0,Benign,Germany
+64,20.2,NULL,NULL,83,4,0,Benign,Germany
+70,12.22,NULL,NULL,71,4,0,Benign,Germany
+46,9.5,NULL,NULL,88,4,0,Benign,Germany
+69,6.56,NULL,NULL,79,4,0,Benign,Germany
+69,9.15,NULL,NULL,66.6,4,0,Benign,Germany
+48,15.3,NULL,NULL,131,4,0,Benign,Germany
+45,3.05,NULL,NULL,45,4,0,Benign,Germany
+70,6.8,NULL,NULL,105,4,0,Benign,Germany
+62,11.31,NULL,NULL,96,4,0,Benign,Germany
+60,7.78,NULL,NULL,114,4,0,Benign,Germany
+60,5.16,NULL,NULL,38,4,0,Benign,Germany
+55,2.43,NULL,NULL,25,4,0,Benign,Germany
+47,4.34,NULL,NULL,28,4,0,Benign,Germany
+53,11.5,NULL,NULL,47,4,0,Benign,Germany
+71,6.2,NULL,NULL,22,4,0,Benign,Germany
+68,10.73,NULL,NULL,63,4,0,Benign,Germany
+55,8.04,NULL,NULL,96,4,0,Benign,Germany
+66,0.6,NULL,NULL,38,4,0,Benign,Germany
+71,10.21,NULL,NULL,38,4,0,Benign,Germany
+56,8.01,NULL,NULL,112,4,0,Benign,Germany
+71,5.9,NULL,NULL,35,4,0,Benign,Germany
+71,13,NULL,NULL,45,4,0,Benign,Germany
+67,7.9,NULL,NULL,82,4,0,Benign,Germany
+46,10,NULL,NULL,74,4,0,Benign,Germany
+61,8.91,NULL,NULL,42,4,0,Benign,Germany
+53,3.85,NULL,NULL,55,4,0,Benign,Germany
+63,11.24,NULL,NULL,69,4,0,Benign,Germany
+58,8.21,NULL,NULL,106,4,0,Benign,Germany
+64,3.5,NULL,NULL,34,4,0,Benign,Germany
+61,12,NULL,NULL,70,4,0,Benign,Germany
+69,18.6,NULL,NULL,173,4,0,Benign,Germany
+57,8.82,NULL,NULL,44,4,0,Benign,Germany
+63,5.4,NULL,NULL,23,4,0,Benign,Germany
+78,17,NULL,NULL,67,4,0,Benign,Germany
+74,17,NULL,NULL,102,4,0,Benign,Germany
+64,3.15,NULL,NULL,35,4,0,Benign,Germany
+47,7.61,NULL,NULL,74,4,0,Benign,Germany
+67,4.95,NULL,NULL,66,4,0,Benign,Germany
+68,3.1,NULL,NULL,44,4,0,Benign,Germany
+61,12.88,NULL,NULL,30,4,0,Benign,Germany
+69,3.98,NULL,NULL,82,4,0,Benign,Germany
+52,2.41,NULL,NULL,15,4,0,Benign,Germany
+65,5.15,NULL,NULL,52,4,0,Benign,Germany
+57,3.6,NULL,NULL,33,4,0,Benign,Germany
+62,1.4,NULL,NULL,22,4,0,Benign,Germany
+68,4.3,NULL,NULL,9,4,0,Benign,Germany
+62,22.09,NULL,NULL,157,4,0,Benign,Germany
+54,NULL,NULL,NULL,47,4,0,Benign,Germany
+48,8.26,NULL,NULL,50,4,0,Benign,Germany
+57,7.24,NULL,NULL,38,4,0,Benign,Germany
+47,4.7,NULL,NULL,29,4,0,Benign,Germany
+76,8.1,NULL,NULL,44,4,0,Benign,Germany
+57,17,NULL,NULL,102,4,0,Benign,Germany
+59,7.26,NULL,NULL,57,4,0,Benign,Germany
+61,3.6,NULL,NULL,57,4,0,Benign,Germany
+68,6.64,NULL,NULL,40,4,0,Benign,Germany
+52,18.5,NULL,NULL,91,4,0,Benign,Germany
+56,25.7,NULL,NULL,87,4,0,Benign,Germany
+50,10.67,NULL,NULL,120,4,6,Malign,Germany
+50,15,NULL,NULL,78,4,6,Malign,Germany
+50,4.75,NULL,NULL,55,4,6,Malign,Germany
+63,11.19,NULL,NULL,77,4,6,Malign,Germany
+57,3.99,NULL,NULL,42,4,6,Malign,Germany
+73,12.1,NULL,NULL,58,4,6,Malign,Germany
+60,1.36,NULL,NULL,76,4,6,Malign,Germany
+58,20.65,NULL,NULL,61,4,6,Malign,Germany
+57,15.1,NULL,NULL,75,4,6,Malign,Germany
+70,14.96,NULL,NULL,75,4,6,Malign,Germany
+77,10.1,NULL,NULL,150,4,6,Malign,Germany
+54,7.6,NULL,NULL,58,4,6,Malign,Germany
+58,16,NULL,NULL,84,4,6,Malign,Germany
+55,4.3,NULL,NULL,57,4,6,Malign,Germany
+57,8.5,NULL,NULL,77,4,6,Malign,Germany
+68,5.41,NULL,NULL,59,4,6,Malign,Germany
+71,6.55,NULL,NULL,34,4,6,Malign,Germany
+58,14,NULL,NULL,70,4,6,Malign,Germany
+74,6.87,NULL,NULL,35,4,6,Malign,Germany
+78,6.8,NULL,NULL,59,4,6,Malign,Germany
+66,1.73,NULL,NULL,16,4,6,Malign,Germany
+73,31.8,NULL,NULL,59.9,4,6,Malign,Germany
+72,6.7,NULL,NULL,65,4,6,Malign,Germany
+70,7.37,NULL,NULL,30.6,4,6,Malign,Germany
+73,8.23,NULL,NULL,32.8,4,6,Malign,Germany
+64,23.02,NULL,NULL,62.8,4,6,Malign,Germany
+78,2.04,NULL,NULL,52,4,6,Malign,Germany
+70,9.7,NULL,NULL,50,4,6,Malign,Germany
+74,9.6,NULL,NULL,56,4,6,Malign,Germany
+62,6.1,NULL,NULL,140,4,6,Malign,Germany
+65,7.23,NULL,NULL,82,4,6,Malign,Germany
+62,14.1,NULL,NULL,31,4,6,Malign,Germany
+77,8.47,NULL,NULL,23,4,6,Malign,Germany
+67,10.1,NULL,NULL,60,4,6,Malign,Germany
+79,10.3,NULL,NULL,77,4,7,Malign,Germany
+67,4.6,NULL,NULL,21,4,7,Malign,Germany
+64,8.9,NULL,NULL,48,4,7,Malign,Germany
+64,14.51,NULL,NULL,38.9,4,7,Malign,Germany
+71,5.9,NULL,NULL,33.6,4,7,Malign,Germany
+75,7.35,NULL,NULL,26,4,7,Malign,Germany
+73,7.4,NULL,NULL,33,4,7,Malign,Germany
+77,7.68,NULL,NULL,64.2,4,7,Malign,Germany
+66,6.62,NULL,NULL,30,4,7,Malign,Germany
+61,4.3,NULL,NULL,41,4,7,Malign,Germany
+76,8.19,NULL,NULL,33,4,7,Malign,Germany
+58,4.49,NULL,NULL,15.8,4,7,Malign,Germany
+82,4.96,NULL,NULL,55.3,4,7,Malign,Germany
+57,7,NULL,NULL,39,4,7,Malign,Germany
+72,4.56,NULL,NULL,30,4,7,Malign,Germany
+75,7.41,NULL,NULL,54,4,7,Malign,Germany
+70,9.38,NULL,NULL,33,4,7,Malign,Germany
+70,7.41,NULL,NULL,54,4,7,Malign,Germany
+65,5.66,NULL,NULL,34,4,7,Malign,Germany
+79,11.39,NULL,NULL,63,4,7,Malign,Germany
+67,5.87,NULL,NULL,59,4,7,Malign,Germany
+69,11.59,NULL,NULL,20,4,7,Malign,Germany
+73,6.23,NULL,NULL,30,4,7,Malign,Germany
+60,9.6,NULL,NULL,41,4,7,Malign,Germany
+61,8.04,NULL,NULL,78,4,7,Malign,Germany
+59,19.5,NULL,NULL,54,4,7,Malign,Germany
+81,4.98,NULL,NULL,42,4,7,Malign,Germany
+71,6.3,NULL,NULL,24,4,7,Malign,Germany
+60,4.69,NULL,NULL,16,4,7,Malign,Germany
+59,8.6,NULL,NULL,41,4,7,Malign,Germany
+68,8.8,NULL,NULL,60,4,7,Malign,Germany
+65,4.1,NULL,NULL,29,4,7,Malign,Germany
+56,7.3,NULL,NULL,39,4,7,Malign,Germany
+77,9.25,NULL,NULL,110.1,4,7,Malign,Germany
+72,15.79,NULL,NULL,24,4,7,Malign,Germany
+66,13,NULL,NULL,33.3,4,7,Malign,Germany
+77,8.7,NULL,NULL,37,4,7.5,Malign,Germany
+71,2.53,NULL,NULL,38,4,7.5,Malign,Germany
+73,3.2,NULL,NULL,27,4,7.5,Malign,Germany
+74,5.77,NULL,NULL,49,4,7.5,Malign,Germany
+75,7.34,NULL,NULL,98,4,7.5,Malign,Germany
+72,9.72,NULL,NULL,76,4,7.5,Malign,Germany
+64,4.8,NULL,NULL,21,4,7.5,Malign,Germany
+73,5.96,NULL,NULL,150,4,7.5,Malign,Germany
+61,8.81,NULL,NULL,41,4,7.5,Malign,Germany
+73,1.6,NULL,NULL,34,4,7.5,Malign,Germany
+66,5.6,NULL,NULL,34,4,7.5,Malign,Germany
+77,6.2,NULL,NULL,57,4,7.5,Malign,Germany
+69,3.65,NULL,NULL,50,4,7.5,Malign,Germany
+61,3.07,NULL,NULL,25,4,7.5,Malign,Germany
+67,2.8,NULL,NULL,29,4,7.5,Malign,Germany
+69,11.3,NULL,NULL,67,4,7.5,Malign,Germany
+66,12.76,NULL,NULL,84,4,8,Malign,Germany
+72,10.36,NULL,NULL,49,4,8,Malign,Germany
+63,5.25,NULL,NULL,90,4,8,Malign,Germany
+69,7.6,NULL,NULL,40,4,8,Malign,Germany
+68,6.1,NULL,NULL,45,4,8,Malign,Germany
+79,7.56,NULL,NULL,60,4,8,Malign,Germany
+81,5.5,NULL,NULL,68,4,8,Malign,Germany
+62,6.24,NULL,NULL,39,4,8,Malign,Germany
+83,11,NULL,NULL,NULL,4,8,Malign,Germany
+74,4.96,NULL,NULL,55.3,4,8,Malign,Germany
+78,7.4,NULL,NULL,34,4,9,Malign,Germany
+62,15,NULL,NULL,28,4,9,Malign,Germany
+74,9.1,NULL,NULL,62,4,9,Malign,Germany
+68,6.77,NULL,NULL,15,4,10,Malign,Germany
+61,7.71,NULL,NULL,43,4,10,Malign,Germany
+66,8,NULL,NULL,24,4,6,Malign,Germany
+58,8.12,NULL,NULL,87,4,6,Malign,Germany
+74,11.4,NULL,NULL,30,4,6,Malign,Germany
+65,7.57,NULL,NULL,67,4,6,Malign,Germany
+58,13.3,NULL,NULL,38,4,6,Malign,Germany
+52,21,NULL,NULL,49,4,6,Malign,Germany
+63,12,NULL,NULL,58,4,6,Malign,Germany
+56,9.54,NULL,NULL,22,4,6,Malign,Germany
+59,16.08,NULL,NULL,26,4,6,Malign,Germany
+65,6.5,NULL,NULL,61,4,6,Malign,Germany
+72,5.2,NULL,NULL,35,4,6,Malign,Germany
+61,6,NULL,NULL,NULL,4,6,Malign,Germany
+68,10.8,NULL,NULL,77,4,6,Malign,Germany
+67,2.26,NULL,NULL,23,4,6,Malign,Germany
+75,4.29,NULL,NULL,27.3,4,6,Malign,Germany
+65,4.77,NULL,NULL,27,4,6,Malign,Germany
+72,11.78,NULL,NULL,43,4,6,Malign,Germany
+63,11.04,NULL,NULL,33,4,6,Malign,Germany
+73,14.04,NULL,NULL,63,4,6,Malign,Germany
+71,7.73,NULL,NULL,50,4,6,Malign,Germany
+57,4.59,NULL,NULL,60,4,6,Malign,Germany
+66,10.5,NULL,NULL,45,4,6,Malign,Germany
+68,4.94,NULL,NULL,28,4,6,Malign,Germany
+52,6.4,NULL,NULL,30,4,6,Malign,Germany
+71,5.82,NULL,NULL,55,4,6,Malign,Germany
+67,7.2,NULL,NULL,41,4,6,Malign,Germany
+45,8,NULL,NULL,43.5,4,6,Malign,Germany
+72,9.73,NULL,NULL,36,4,6,Malign,Germany
+58,6.92,NULL,NULL,25,4,6,Malign,Germany
+72,6.71,NULL,NULL,24,4,6,Malign,Germany
+75,5.62,NULL,NULL,30,4,6,Malign,Germany
+56,5.2,NULL,NULL,41,4,6,Malign,Germany
+55,11.4,NULL,NULL,37,4,6,Malign,Germany
+56,14.93,NULL,NULL,47,4,6,Malign,Germany
+70,3.7,NULL,NULL,37,4,6,Malign,Germany
+81,12.54,NULL,NULL,20,4,6,Malign,Germany
+75,5.44,NULL,NULL,32,4,6,Malign,Germany
+69,12.31,NULL,NULL,36,4,6,Malign,Germany
+68,4.56,NULL,NULL,36,4,6,Malign,Germany
+77,5.42,NULL,NULL,31,4,6,Malign,Germany
+58,8.97,NULL,NULL,48,4,6,Malign,Germany
+70,5.53,NULL,NULL,35,4,6,Malign,Germany
+83,8.14,NULL,NULL,46,4,6,Malign,Germany
+78,6.22,NULL,NULL,27,4,6,Malign,Germany
+79,10.4,NULL,NULL,62,4,6,Malign,Germany
+72,4.88,NULL,NULL,121,4,6,Malign,Germany
+71,8.6,NULL,NULL,21,4,6,Malign,Germany
+66,5.2,NULL,NULL,26,4,6,Malign,Germany
+65,3.91,NULL,NULL,37,4,6,Malign,Germany
+66,17.2,NULL,NULL,48,4,6,Malign,Germany
+67,6.92,NULL,NULL,20,4,6,Malign,Germany
+61,6.3,NULL,NULL,28,4,6,Malign,Germany
+62,11.3,NULL,NULL,56,4,6,Malign,Germany
+66,4.9,NULL,NULL,25,4,6,Malign,Germany
+68,7.12,NULL,NULL,41,4,6,Malign,Germany
+69,10.04,NULL,NULL,72,4,6,Malign,Germany
+79,9.27,NULL,NULL,49,4,6,Malign,Germany
+74,6.4,NULL,NULL,32,4,6,Malign,Germany
+78,5.7,NULL,NULL,48,4,6,Malign,Germany
+81,7.18,NULL,NULL,28,4,6,Malign,Germany
+69,6.6,NULL,NULL,33,4,6,Malign,Germany
+68,20,NULL,NULL,37,4,6,Malign,Germany
+73,3.66,NULL,NULL,30,4,6,Malign,Germany
+74,5.8,NULL,NULL,38,4,6,Malign,Germany
+68,6.8,NULL,NULL,NULL,4,6,Malign,Germany
+78,12.15,NULL,NULL,106,4,6,Malign,Germany
+72,14.2,NULL,NULL,37,4,6,Malign,Germany
+72,4.13,NULL,NULL,54,4,6,Malign,Germany
+86,19,NULL,NULL,118.2,4,6,Malign,Germany
+65,2.82,NULL,NULL,38.7,4,6,Malign,Germany
+45,6.5,NULL,NULL,31,4,6,Malign,Germany
+70,6.5,NULL,NULL,36,4,6,Malign,Germany
+56,4.32,NULL,NULL,24,4,6,Malign,Germany
+78,11.46,NULL,NULL,42.2,4,6,Malign,Germany
+72,4,NULL,NULL,27.2,4,6,Malign,Germany
+59,4.3,NULL,NULL,33,4,6,Malign,Germany
+76,8.7,NULL,NULL,51,4,6,Malign,Germany
+54,7.56,NULL,NULL,54,4,6,Malign,Germany
+54,11,NULL,NULL,89,4,6,Malign,Germany
+67,6.36,NULL,NULL,145.4,4,6,Malign,Germany
+66,9.4,NULL,NULL,23.3,4,6,Malign,Germany
+65,6.66,NULL,NULL,70,4,6,Malign,Germany
+60,9,NULL,NULL,53,4,6,Malign,Germany
+59,9.98,NULL,NULL,42,4,6,Malign,Germany
+60,4.86,NULL,NULL,22,4,6,Malign,Germany
+71,6.73,NULL,NULL,33,4,7,Malign,Germany
+72,5.37,NULL,NULL,66,4,7,Malign,Germany
+66,8.99,NULL,NULL,13,4,7,Malign,Germany
+47,5.7,NULL,NULL,27,4,7,Malign,Germany
+53,8.71,NULL,NULL,36,4,7,Malign,Germany
+46,4.83,NULL,NULL,53,4,7,Malign,Germany
+70,5.9,NULL,NULL,60,4,7,Malign,Germany
+55,10.4,NULL,NULL,91,4,7,Malign,Germany
+70,10,NULL,NULL,NULL,4,7,Malign,Germany
+53,7.6,NULL,NULL,72,4,7,Malign,Germany
+54,6.5,NULL,NULL,53,4,7,Malign,Germany
+72,3.2,NULL,NULL,30,4,7,Malign,Germany
+63,20.75,NULL,NULL,37.6,4,7,Malign,Germany
+79,16.12,NULL,NULL,129,4,7,Malign,Germany
+76,7.53,NULL,NULL,79,4,7,Malign,Germany
+67,10.34,NULL,NULL,69,4,7,Malign,Germany
+63,5.22,NULL,NULL,68,4,7,Malign,Germany
+45,6.2,NULL,NULL,61,4,7,Malign,Germany
+58,7.62,NULL,NULL,38,4,7,Malign,Germany
+62,4.13,NULL,NULL,20,4,7,Malign,Germany
+67,5.01,NULL,NULL,23,4,7,Malign,Germany
+58,8.1,NULL,NULL,56,4,7,Malign,Germany
+68,9.8,NULL,NULL,43,4,7.5,Malign,Germany
+71,8.88,NULL,NULL,38,4,7.5,Malign,Germany
+69,14.14,NULL,NULL,60,4,8,Malign,Germany
+64,9.6,NULL,NULL,30,4,8,Malign,Germany
+56,8.16,NULL,NULL,33,4,9,Malign,Germany
+67,4.03,NULL,NULL,23,4,9,Malign,Germany
+70,6.22,NULL,NULL,38,4,7,Malign,Germany
+80,4.24,NULL,NULL,42,4,7,Malign,Germany
+49,7.9,NULL,NULL,60,4,7,Malign,Germany
+63,7.5,NULL,NULL,NULL,4,7,Malign,Germany
+77,7.38,NULL,NULL,29.7,4,7,Malign,Germany
+46,3.73,NULL,NULL,31,4,7,Malign,Germany
+73,5.02,NULL,NULL,61,4,7,Malign,Germany
+76,8.03,NULL,NULL,60,4,7,Malign,Germany
+60,10.6,NULL,NULL,60,4,7,Malign,Germany
+72,9.49,NULL,NULL,57.4,4,7,Malign,Germany
+66,9.57,NULL,NULL,23,4,7,Malign,Germany
+59,11,NULL,NULL,NULL,4,7,Malign,Germany
+63,5.37,NULL,NULL,84,4,7,Malign,Germany
+62,5.51,NULL,NULL,29,4,7,Malign,Germany
+79,5.63,NULL,NULL,47,4,7,Malign,Germany
+73,8.08,NULL,NULL,18,4,7,Malign,Germany
+57,5.95,NULL,NULL,45.6,4,7,Malign,Germany
+74,24,NULL,NULL,25.9,4,7,Malign,Germany
+71,1.77,NULL,NULL,43,4,7,Malign,Germany
+60,10.83,NULL,NULL,35,4,7,Malign,Germany
+77,32.74,NULL,NULL,36,4,7,Malign,Germany
+53,7.08,NULL,NULL,33,4,7,Malign,Germany
+67,12.85,NULL,NULL,63,4,7.5,Malign,Germany
+67,9.7,NULL,NULL,31,4,7.5,Malign,Germany
+69,6.5,NULL,NULL,50,4,7.5,Malign,Germany
+67,NULL,NULL,NULL,NULL,4,7.5,Malign,Germany
+63,8.78,NULL,NULL,88.6,4,8,Malign,Germany
+71,7.2,NULL,NULL,31.7,4,8,Malign,Germany
+63,8.98,NULL,NULL,20.9,4,8,Malign,Germany
+66,14.06,NULL,NULL,25,4,9,Malign,Germany
+50,5.18,NULL,NULL,31,4,7,Malign,Germany
+58,15,NULL,NULL,105,4,7,Malign,Germany
+73,10.87,NULL,NULL,53,4,7,Malign,Germany
+64,4.56,NULL,NULL,36,4,7,Malign,Germany
+68,4.61,NULL,NULL,52,4,7,Malign,Germany
+69,15,NULL,NULL,37,4,7,Malign,Germany
+73,NULL,NULL,NULL,NULL,4,7,Malign,Germany
+74,4.35,NULL,NULL,23,4,7,Malign,Germany
+66,9.57,NULL,NULL,54,4,7,Malign,Germany
+70,14.24,NULL,NULL,37,4,7,Malign,Germany
+74,17.55,NULL,NULL,48,4,7,Malign,Germany
+72,17,NULL,NULL,23,4,7.5,Malign,Germany
+75,5.29,NULL,NULL,32,4,7,Malign,Germany
+70,5.26,NULL,NULL,57,4,7,Malign,Germany
+76,20.2,NULL,NULL,71,4,7,Malign,Germany
+76,6.3,NULL,NULL,25,4,7,Malign,Germany
+74,11.78,NULL,NULL,29,4,7,Malign,Germany
+72,6.35,NULL,NULL,29,4,7,Malign,Germany
+64,8.3,NULL,NULL,21,4,7,Malign,Germany
+55,15.3,NULL,NULL,64,4,7,Malign,Germany
+81,30,NULL,NULL,71,5,7,Malign,Germany
+76,19.35,NULL,NULL,113,5,7,Malign,Germany
+74,4,NULL,NULL,39,5,7,Malign,Germany
+65,8.4,NULL,NULL,34.3,5,7,Malign,Germany
+74,13.35,NULL,NULL,46,5,7,Malign,Germany
+61,9.1,NULL,NULL,40.8,5,7,Malign,Germany
+58,13.4,NULL,NULL,31,5,7,Malign,Germany
+75,39.6,NULL,NULL,55,5,7,Malign,Germany
+70,9.85,NULL,NULL,45,5,7,Malign,Germany
+76,6.97,NULL,NULL,20,5,7,Malign,Germany
+72,4.8,NULL,NULL,54,5,7,Malign,Germany
+77,6,NULL,NULL,49,5,7,Malign,Germany
+65,11.5,NULL,NULL,36,5,7,Malign,Germany
+59,6.98,NULL,NULL,34,5,7,Malign,Germany
+75,20,NULL,NULL,56,5,7,Malign,Germany
+67,15,NULL,NULL,28,5,7,Malign,Germany
+61,13.1,NULL,NULL,38,5,7,Malign,Germany
+75,9.85,NULL,NULL,50,5,7,Malign,Germany
+80,13.4,NULL,NULL,50,5,7,Malign,Germany
+60,6.6,NULL,NULL,67,5,7,Malign,Germany
+67,NULL,NULL,NULL,NULL,5,7,Malign,Germany
+79,9.22,NULL,NULL,42,5,7,Malign,Germany
+65,5.6,NULL,NULL,124,5,7,Malign,Germany
+58,6.16,NULL,NULL,36,5,7,Malign,Germany
+73,8.5,NULL,NULL,46,5,7,Malign,Germany
+76,2.6,NULL,NULL,29,5,7,Malign,Germany
+59,4.23,NULL,NULL,30,5,7,Malign,Germany
+57,14.97,NULL,NULL,84,5,7,Malign,Germany
+64,3.4,NULL,NULL,112,5,7,Malign,Germany
+73,4.6,NULL,NULL,23,5,7,Malign,Germany
+49,8.21,NULL,NULL,47,5,7,Malign,Germany
+73,9.36,NULL,NULL,10,5,7,Malign,Germany
+85,10,NULL,NULL,29,5,7,Malign,Germany
+49,15.81,NULL,NULL,43,5,7,Malign,Germany
+64,18.23,NULL,NULL,24,5,7,Malign,Germany
+63,20.48,NULL,NULL,51,5,7,Malign,Germany
+68,8.5,NULL,NULL,93,5,7,Malign,Germany
+63,10.89,NULL,NULL,51,5,7,Malign,Germany
+75,18,NULL,NULL,46,5,7,Malign,Germany
+77,25,NULL,NULL,35,5,7,Malign,Germany
+53,15.09,NULL,NULL,46,5,7,Malign,Germany
+66,8.27,NULL,NULL,18,5,7,Malign,Germany
+76,8.5,NULL,NULL,35,5,7,Malign,Germany
+79,16,NULL,NULL,36,5,7,Malign,Germany
+69,17,NULL,NULL,57,5,7,Malign,Germany
+72,NULL,NULL,NULL,NULL,5,7,Malign,Germany
+50,8.3,NULL,NULL,26,5,7,Malign,Germany
+65,9.81,NULL,NULL,23.4,5,7,Malign,Germany
+77,7.9,NULL,NULL,30,5,7,Malign,Germany
+65,6.5,NULL,NULL,35,5,7,Malign,Germany
+73,14.77,NULL,NULL,41,5,7,Malign,Germany
+71,14,NULL,NULL,62,5,7,Malign,Germany
+66,4.68,NULL,NULL,20,5,7,Malign,Germany
+74,8.84,NULL,NULL,70,5,7,Malign,Germany
+74,8.2,NULL,NULL,NULL,5,7,Malign,Germany
+78,22.4,NULL,NULL,30,5,7,Malign,Germany
+71,9.95,NULL,NULL,25,5,7,Malign,Germany
+84,27.9,NULL,NULL,45.3,5,7,Malign,Germany
+74,4.54,NULL,NULL,42,5,7,Malign,Germany
+70,8.8,NULL,NULL,34.7,5,7,Malign,Germany
+46,3.7,NULL,NULL,37,5,7,Malign,Germany
+63,13.64,NULL,NULL,28,5,7,Malign,Germany
+57,7.3,NULL,NULL,36,5,7,Malign,Germany
+64,15.7,NULL,NULL,30,5,7,Malign,Germany
+78,4.65,NULL,NULL,30,5,7,Malign,Germany
+73,14,NULL,NULL,45,5,7,Malign,Germany
+60,19.05,NULL,NULL,45,5,7,Malign,Germany
+59,NULL,NULL,NULL,41,5,7,Malign,Germany
+74,5.05,NULL,NULL,48,5,7,Malign,Germany
+82,19.98,NULL,NULL,35,5,7,Malign,Germany
+68,7.8,NULL,NULL,18,5,7,Malign,Germany
+63,2.94,NULL,NULL,52,5,7.5,Malign,Germany
+58,8.9,NULL,NULL,79,5,7.5,Malign,Germany
+67,20.12,NULL,NULL,32,5,7.5,Malign,Germany
+63,9.18,NULL,NULL,36,5,7.5,Malign,Germany
+63,9,NULL,NULL,26,5,7.5,Malign,Germany
+71,42,NULL,NULL,162,5,7.5,Malign,Germany
+69,12.9,NULL,NULL,31,5,7.5,Malign,Germany
+63,10,NULL,NULL,39,5,7.5,Malign,Germany
+76,10.3,NULL,NULL,29,5,7.5,Malign,Germany
+70,5.46,NULL,NULL,43,5,7.5,Malign,Germany
+71,12.8,NULL,NULL,56,5,7.5,Malign,Germany
+70,7.37,NULL,NULL,50,5,7.5,Malign,Germany
+64,10.3,NULL,NULL,28,5,8,Malign,Germany
+58,NULL,NULL,NULL,NULL,5,8,Malign,Germany
+87,17,NULL,NULL,47,5,8,Malign,Germany
+73,7.49,NULL,NULL,28,5,8,Malign,Germany
+60,9.7,NULL,NULL,48.7,5,8,Malign,Germany
+64,6.2,NULL,NULL,33,5,8,Malign,Germany
+75,10.68,NULL,NULL,29,5,7.5,Malign,Germany
+71,14.77,NULL,NULL,41,5,7.5,Malign,Germany
+61,13,NULL,NULL,27,5,7.5,Malign,Germany
+75,8.9,NULL,NULL,41,5,7.5,Malign,Germany
+59,4.09,NULL,NULL,35,5,7.5,Malign,Germany
+73,24.72,NULL,NULL,63,5,7.5,Malign,Germany
+61,10.86,NULL,NULL,36,5,7.5,Malign,Germany
+63,10.86,NULL,NULL,26.6,5,7.5,Malign,Germany
+76,10.39,NULL,NULL,40,5,7.5,Malign,Germany
+75,6.91,NULL,NULL,34,5,7.5,Malign,Germany
+68,13.94,NULL,NULL,89,5,7.5,Malign,Germany
+65,6,NULL,NULL,28,5,7.5,Malign,Germany
+63,20.21,NULL,NULL,41,5,7.5,Malign,Germany
+74,10.8,NULL,NULL,44,5,7.5,Malign,Germany
+75,5.12,NULL,NULL,20,5,7.5,Malign,Germany
+77,6.58,NULL,NULL,29,5,7.5,Malign,Germany
+69,19,NULL,NULL,70,5,7.5,Malign,Germany
+74,11.9,NULL,NULL,37,5,7.5,Malign,Germany
+76,9,NULL,NULL,53,5,7.5,Malign,Germany
+60,8.84,NULL,NULL,17,5,7.5,Malign,Germany
+84,25.56,NULL,NULL,25,5,7.5,Malign,Germany
+77,28.34,NULL,NULL,15.2,5,7.5,Malign,Germany
+78,6.28,NULL,NULL,33,5,7.5,Malign,Germany
+64,12.8,NULL,NULL,52,5,7.5,Malign,Germany
+83,18.62,NULL,NULL,29,5,7.5,Malign,Germany
+49,6.03,NULL,NULL,75,5,7.5,Malign,Germany
+72,10.93,NULL,NULL,18,5,7.5,Malign,Germany
+80,14.8,NULL,NULL,41,5,7.5,Malign,Germany
+80,11.2,NULL,NULL,30,5,7.5,Malign,Germany
+77,9.3,NULL,NULL,58,5,7.5,Malign,Germany
+68,6.8,NULL,NULL,24,5,7.5,Malign,Germany
+71,5.96,NULL,NULL,40,5,7.5,Malign,Germany
+69,15.7,NULL,NULL,26,5,7.5,Malign,Germany
+58,5.06,NULL,NULL,17,5,7.5,Malign,Germany
+75,6.92,NULL,NULL,37,5,7.5,Malign,Germany
+62,6.94,NULL,NULL,36,5,7.5,Malign,Germany
+47,12,NULL,NULL,NULL,5,7.5,Malign,Germany
+62,9.26,NULL,NULL,36,5,7.5,Malign,Germany
+65,13.4,NULL,NULL,29,5,7.5,Malign,Germany
+57,2,NULL,NULL,36,5,7.5,Malign,Germany
+58,7.7,NULL,NULL,76,5,7.5,Malign,Germany
+74,8.28,NULL,NULL,NULL,5,7.5,Malign,Germany
+61,15.93,NULL,NULL,57.9,5,7.5,Malign,Germany
+61,19.47,NULL,NULL,40.3,5,7.5,Malign,Germany
+58,5.95,NULL,NULL,26,5,7.5,Malign,Germany
+47,13.74,NULL,NULL,47,5,7.5,Malign,Germany
+50,7.06,NULL,NULL,18,5,8,Malign,Germany
+49,5.1,NULL,NULL,NULL,5,8,Malign,Germany
+76,7.29,NULL,NULL,27,5,8,Malign,Germany
+68,20,NULL,NULL,83,5,8,Malign,Germany
+75,13.79,NULL,NULL,30.6,5,8,Malign,Germany
+64,8.01,NULL,NULL,27,5,8,Malign,Germany
+59,5.04,NULL,NULL,30.7,5,8,Malign,Germany
+62,23.7,NULL,NULL,30.6,5,9,Malign,Germany
+59,21.8,NULL,NULL,78.3,5,8,Malign,Germany
+69,11,NULL,NULL,45,5,8,Malign,Germany
+63,14.31,NULL,NULL,35,5,8,Malign,Germany
+76,14.3,NULL,NULL,65,5,8,Malign,Germany
+60,37.8,NULL,NULL,76,5,8,Malign,Germany
+66,32,NULL,NULL,88.9,5,8,Malign,Germany
+48,12.77,NULL,NULL,72,5,8,Malign,Germany
+74,30.9,NULL,NULL,24,5,8,Malign,Germany
+59,64.37,NULL,NULL,26,5,8,Malign,Germany
+72,43.42,NULL,NULL,24,5,8,Malign,Germany
+81,5.2,NULL,NULL,45,5,8,Malign,Germany
+56,23,NULL,NULL,60,5,8,Malign,Germany
+66,12.4,NULL,NULL,55,5,8,Malign,Germany
+80,7.2,NULL,NULL,26,5,8,Malign,Germany
+74,4.32,NULL,NULL,51,5,8,Malign,Germany
+77,7.5,NULL,NULL,36.4,5,8,Malign,Germany
+65,7.6,NULL,NULL,52,5,8,Malign,Germany
+64,17,NULL,NULL,30,5,8,Malign,Germany
+69,NULL,NULL,NULL,NULL,5,8,Malign,Germany
+68,10.4,NULL,NULL,36,5,8,Malign,Germany
+82,27.6,NULL,NULL,51,5,8,Malign,Germany
+76,74,NULL,NULL,108,5,8,Malign,Germany
+70,8.08,NULL,NULL,41,5,8,Malign,Germany
+76,7.48,NULL,NULL,19.3,5,8,Malign,Germany
+61,12.46,NULL,NULL,50,5,8,Malign,Germany
+59,30,NULL,NULL,61,5,8,Malign,Germany
+72,4.14,NULL,NULL,20,5,8,Malign,Germany
+65,4.85,NULL,NULL,21,5,8,Malign,Germany
+71,11.4,NULL,NULL,46,5,9,Malign,Germany
+67,7.77,NULL,NULL,36,5,9,Malign,Germany
+75,4.57,NULL,NULL,35,5,9,Malign,Germany
+77,12,NULL,NULL,42,5,9,Malign,Germany
+64,27.96,NULL,NULL,41,5,9,Malign,Germany
+49,32.32,NULL,NULL,30.7,5,9,Malign,Germany
+66,16.33,NULL,NULL,20.3,5,9,Malign,Germany
+73,NULL,NULL,NULL,NULL,5,9,Malign,Germany
+74,13.92,NULL,NULL,36,5,9,Malign,Germany
+68,26.6,NULL,NULL,NULL,5,9,Malign,Germany
+71,29.09,NULL,NULL,177.2,5,9,Malign,Germany
+61,1.27,NULL,NULL,48,5,9,Malign,Germany
+57,9,NULL,NULL,35,5,9,Malign,Germany
+82,10.8,NULL,NULL,22,5,9,Malign,Germany
+72,6.93,NULL,NULL,44,5,9,Malign,Germany
+75,13.14,NULL,NULL,26,5,9,Malign,Germany
+62,44.75,NULL,NULL,30,5,9,Malign,Germany
+70,9.36,NULL,NULL,43,5,9,Malign,Germany
+73,8,NULL,NULL,66,5,9,Malign,Germany
+73,5.11,NULL,NULL,38.4,5,9,Malign,Germany
+77,10.39,NULL,NULL,39,5,9,Malign,Germany
+77,24,NULL,NULL,48,5,9,Malign,Germany
+65,15.94,NULL,NULL,50,5,10,Malign,Germany
+67,12.87,NULL,NULL,44.5,5,10,Malign,Germany
+77,1.56,NULL,NULL,47.1,5,10,Malign,Germany
+65,6.34,NULL,NULL,25,5,10,Malign,Germany
+NULL,NULL,NULL,NULL,NULL,1,0,Benign,Project
+NULL,NULL,NULL,NULL,NULL,4,0,Benign,Project
+NULL,4.42,1.39,3.45,NULL,3,7,Malign,Project
+NULL,6.6,NULL,3.35,NULL,5,7,Malign,Project
+NULL,15.5,NULL,16.9,NULL,1,0,Benign,Project
+NULL,12.65,NULL,11.81,NULL,2,0,Benign,Project
+NULL,11.59,NULL,14.03,NULL,3,0,Benign,Project
+NULL,9.33,2.85,8.69,NULL,2,6,Malign,Project
+NULL,6.77,0.91,8.49,NULL,5,6,Malign,Project
+NULL,NULL,NULL,13,NULL,4,7,Malign,Project
+NULL,5.86,1.42,4.29,NULL,1,0,Benign,Project
+NULL,2.49,NULL,2.25,NULL,2,0,Benign,Project
+NULL,6.3,NULL,4.85,NULL,2,0,Benign,Project
+NULL,6.13,1.52,5.1,NULL,2,6,Malign,Project
+NULL,5.85,1.4,5.67,NULL,2,0,Malign,Project
+NULL,13.84,NULL,5.99,NULL,2,0,Benign,Project
+NULL,15,3.1,9.24,NULL,3,0,Benign,Project
+NULL,46,17,59,NULL,5,8,Malign,Project
+NULL,1.13,NULL,0.78,NULL,2,6,Malign,Project
+NULL,5.77,0.56,4.84,NULL,4,7,Malign,Project
+NULL,5.01,0.85,3.53,NULL,5,7,Malign,Project
+NULL,4.17,1.53,2.13,NULL,1,0,Benign,Project
+NULL,4.18,0.68,3.77,NULL,4,7,Malign,Project
+NULL,2.75,NULL,3.13,NULL,1,0,Benign,Project
+NULL,2.49,NULL,2.13,NULL,4,6,Malign,Project
+NULL,2.39,NULL,NULL,NULL,4,0,Benign,Project
+NULL,8.96,3.41,5.15,NULL,2,0,Benign,Project
+NULL,3.92,NULL,3.28,NULL,3,0,Benign,Project
+NULL,7.6,1.23,4.12,NULL,4,7,Malign,Project
+NULL,5.85,2.08,6.25,NULL,2,6,Malign,Project
+NULL,4.6,1.15,3.34,NULL,3,0,Benign,Project
+NULL,3.78,NULL,7.6,NULL,3,0,Benign,Project
+NULL,17,NULL,16,NULL,5,7,Malign,Project
+NULL,6.75,1.14,4.66,NULL,5,6,Malign,Project
+NULL,3.14,NULL,1.34,NULL,2,0,Benign,Project
+NULL,6.09,NULL,NULL,NULL,5,6,Malign,Project
+NULL,3.9,NULL,4.8,NULL,3,0,Benign,Project
+NULL,6.54,1.63,4.41,NULL,4,0,Benign,Project
+NULL,5.51,0.92,3.65,NULL,3,6,Malign,Project
+75,3.9,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+67,1.5,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+58,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+68,9.6,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+64,17,NULL,NULL,NULL,NULL,4,Malign,Russia
+69,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+63,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+84,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+50,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Russia
+60,8,NULL,NULL,45,NULL,3,Malign,Russia
+55,13.46,NULL,NULL,NULL,NULL,3,Malign,Russia
+61,4.6,NULL,NULL,82,NULL,3,Malign,Russia
+55,24,NULL,NULL,35,NULL,3,Malign,Russia
+61,30,NULL,NULL,30,NULL,3,Malign,Russia
+67,11,NULL,NULL,NULL,NULL,3,Malign,Russia
+69,15.34,NULL,NULL,NULL,NULL,3,Malign,Russia
+57,16.59,NULL,NULL,22,NULL,3,Malign,Russia
+69,5.3,NULL,NULL,36,NULL,3,Malign,Russia
+67,5.62,NULL,NULL,19,NULL,3,Malign,Russia
+68,14.9,NULL,NULL,75,NULL,3,Malign,Russia
+56,15,NULL,NULL,40,NULL,3,Malign,Russia
+48,4.8,NULL,NULL,30,NULL,3,Malign,Russia
+67,6.6,NULL,NULL,75,NULL,3,Malign,Russia
+69,5.9,NULL,NULL,90,NULL,3,Malign,Russia
+73,3.93,NULL,NULL,35,NULL,3,Malign,Russia
+50,12,NULL,NULL,25,NULL,3,Malign,Russia
+67,6.1,NULL,NULL,40,NULL,3,Malign,Russia
+67,8.38,NULL,NULL,NULL,NULL,3,Malign,Russia
+65,31,NULL,NULL,14,NULL,4,Malign,Russia
+61,5.9,NULL,NULL,35,NULL,3,Malign,Russia
+58,12,NULL,NULL,50,NULL,4,Malign,Russia
+65,27,NULL,NULL,35,NULL,3,Malign,Russia
+60,6.9,NULL,NULL,20,NULL,3,Malign,Russia
+40,4.5,NULL,NULL,20,NULL,3,Malign,Russia
+NULL,NULL,NULL,NULL,24,NULL,NULL,No Tumor,Turkey
+63,5.63,2.72,NULL,86,NULL,NULL,Benign,Turkey
+57,9.77,NULL,NULL,43,NULL,NULL,Malign,Turkey
+60,7.46,1.99,NULL,120,NULL,NULL,Benign,Turkey
+57,2.1,0.41,NULL,19,NULL,NULL,Malign,Turkey
+53,10.8,1.02,NULL,32.4,NULL,NULL,Malign,Turkey
+64,7.24,NULL,NULL,41,NULL,NULL,Malign,Turkey
+61,8.96,2.7,NULL,NULL,NULL,NULL,Malign,Turkey
+62,6.23,NULL,NULL,56,NULL,NULL,Malign,Turkey
+NULL,NULL,NULL,NULL,55,NULL,NULL,No Tumor,Turkey
+64,7.9,NULL,NULL,91,NULL,NULL,Malign,Turkey
+58,13.7,NULL,NULL,51,NULL,NULL,Malign,Turkey
+61,0.56,0.22,NULL,21,NULL,NULL,Benign,Turkey
+59,4.45,1.54,NULL,NULL,NULL,NULL,Benign,Turkey
+54,5.6,0.6,NULL,38,NULL,NULL,Benign,Turkey
+59,4.92,1.6,NULL,54.71,NULL,NULL,Malign,Turkey
+63,10.4,NULL,NULL,84,NULL,NULL,Benign,Turkey
+64,5.22,NULL,NULL,102,NULL,NULL,Benign,Turkey
+65,9.12,1.48,NULL,58,NULL,NULL,Malign,Turkey
+64,21.26,NULL,NULL,25,NULL,NULL,Malign,Turkey
+60,4.85,NULL,NULL,18,NULL,NULL,Benign,Turkey
+59,4.2,0.6,NULL,35.7,NULL,NULL,Malign,Turkey
+51,14.2,1.19,NULL,29,NULL,NULL,Benign,Turkey
+65,5.4,2.02,NULL,95,NULL,NULL,Benign,Turkey
+65,0.24,0.09,NULL,31.45,NULL,NULL,Malign,Turkey
+65,10.6,3.04,NULL,161,NULL,NULL,Benign,Turkey
+53,4.42,0.73,NULL,NULL,NULL,NULL,Malign,Turkey
+62,4.69,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+61,4.35,NULL,NULL,45,NULL,NULL,Malign,Turkey
+58,8.78,1.88,NULL,35.99,NULL,NULL,Malign,Turkey
+65,36.5,4.74,NULL,160,NULL,NULL,Benign,Turkey
+56,8.74,NULL,NULL,46,NULL,NULL,Benign,Turkey
+55,5.9,0.9,NULL,42,NULL,NULL,Malign,Turkey
+61,61.8,NULL,NULL,24.79,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,36,NULL,NULL,No Tumor,Turkey
+64,7.11,NULL,NULL,60,NULL,NULL,Benign,Turkey
+60,21.9,4.32,NULL,90,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,32,NULL,NULL,No Tumor,Turkey
+61,8.06,0,NULL,78,NULL,NULL,Malign,Turkey
+57,4.6,NULL,NULL,32,NULL,NULL,Benign,Turkey
+53,4.1,1.1,NULL,31,NULL,NULL,Benign,Turkey
+57,7.14,0,NULL,45,NULL,NULL,Benign,Turkey
+57,5.78,1.19,NULL,25.99,NULL,NULL,Malign,Turkey
+62,6.27,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+62,6.38,2.67,NULL,53,NULL,NULL,Benign,Turkey
+63,6.65,NULL,NULL,57,NULL,NULL,Malign,Turkey
+63,4.94,0.33,NULL,20,NULL,NULL,Malign,Turkey
+41,13,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+61,5,NULL,NULL,35,NULL,NULL,Benign,Turkey
+65,8.44,0.9,NULL,52,NULL,NULL,Benign,Turkey
+61,13.16,2.37,NULL,NULL,NULL,NULL,Benign,Turkey
+53,5.96,1.1,NULL,NULL,NULL,NULL,Malign,Turkey
+58,4.01,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+46,4.58,1.14,NULL,31,NULL,NULL,Benign,Turkey
+61,10.82,2.55,NULL,34,NULL,NULL,Malign,Turkey
+65,4.3,NULL,NULL,88,NULL,NULL,Benign,Turkey
+62,12.1,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+61,6.93,NULL,NULL,39,NULL,NULL,Benign,Turkey
+65,NULL,NULL,NULL,102,NULL,NULL,Benign,Turkey
+64,4.8,1.9,NULL,72,NULL,NULL,Benign,Turkey
+58,4.77,1.4,NULL,88,NULL,NULL,Benign,Turkey
+61,10.77,1.7,NULL,32,NULL,NULL,Malign,Turkey
+NULL,NULL,NULL,NULL,38,NULL,NULL,No Tumor,Turkey
+54,7.94,0.76,NULL,52,NULL,NULL,Benign,Turkey
+57,7.3,NULL,NULL,20,NULL,NULL,Benign,Turkey
+62,18.1,NULL,NULL,13,NULL,NULL,Malign,Turkey
+64,6,NULL,NULL,57,NULL,NULL,Benign,Turkey
+56,8.9,1,NULL,38,NULL,NULL,Malign,Turkey
+58,9,NULL,NULL,27,NULL,NULL,Benign,Turkey
+65,2.8,0.69,NULL,49,NULL,NULL,Malign,Turkey
+58,4.64,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+61,6.67,1.29,NULL,32.03,NULL,NULL,Benign,Turkey
+60,7.31,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+55,7.91,2.21,NULL,NULL,NULL,NULL,Benign,Turkey
+61,3.94,0.87,NULL,72,NULL,NULL,Benign,Turkey
+59,5.21,NULL,NULL,42,NULL,NULL,Malign,Turkey
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Turkey
+NULL,NULL,NULL,NULL,56,NULL,NULL,No Tumor,Turkey
+55,4.83,NULL,NULL,25,NULL,NULL,Benign,Turkey
+61,4.76,NULL,NULL,54,NULL,NULL,Benign,Turkey
+62,17.5,3.45,NULL,74,NULL,NULL,Benign,Turkey
+57,9.26,1.88,NULL,NULL,NULL,NULL,Benign,Turkey
+60,4,NULL,NULL,30,NULL,NULL,Malign,Turkey
+64,4.75,1.85,NULL,47,NULL,NULL,Benign,Turkey
+65,7.5,NULL,NULL,74,NULL,NULL,Malign,Turkey
+59,30.7,5.5,NULL,79.8,NULL,NULL,Malign,Turkey
+51,4.76,1.71,NULL,NULL,NULL,NULL,Benign,Turkey
+65,8.48,1.71,NULL,98.6,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,64,NULL,NULL,No Tumor,Turkey
+56,5.93,0.75,NULL,25,NULL,NULL,Malign,Turkey
+NULL,NULL,NULL,NULL,50,NULL,NULL,No Tumor,Turkey
+54,6.04,NULL,NULL,35,NULL,NULL,Benign,Turkey
+57,1.44,NULL,NULL,22,NULL,NULL,Benign,Turkey
+59,4.8,NULL,NULL,40,NULL,NULL,Malign,Turkey
+65,13.05,1.39,NULL,51,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,55,NULL,NULL,No Tumor,Turkey
+53,7.1,0,NULL,NULL,NULL,NULL,Benign,Turkey
+52,0.59,NULL,NULL,17,NULL,NULL,Benign,Turkey
+56,8,0,NULL,44.5,NULL,NULL,Malign,Turkey
+64,84,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,32,NULL,NULL,No Tumor,Turkey
+62,6.49,NULL,NULL,65,NULL,NULL,Malign,Turkey
+59,4.04,1.21,NULL,46.6,NULL,NULL,Malign,Turkey
+56,10.8,NULL,NULL,59,NULL,NULL,Malign,Turkey
+52,3.45,0.7,NULL,40.5,NULL,NULL,Benign,Turkey
+64,9.44,1.39,NULL,28,NULL,NULL,Malign,Turkey
+62,11.9,NULL,NULL,32.2,NULL,NULL,Malign,Turkey
+62,5.74,1.48,NULL,NULL,NULL,NULL,Benign,Turkey
+58,7.91,NULL,NULL,14,NULL,NULL,Malign,Turkey
+65,5.11,1.86,NULL,81,NULL,NULL,Malign,Turkey
+60,15.8,2.7,NULL,70.8,NULL,NULL,Benign,Turkey
+63,5.21,1.44,NULL,52,NULL,NULL,Benign,Turkey
+63,7.9,NULL,NULL,59,NULL,NULL,Benign,Turkey
+38,5.58,NULL,NULL,27,NULL,NULL,Benign,Turkey
+61,4.15,0.97,NULL,79,NULL,NULL,Benign,Turkey
+63,6.21,NULL,NULL,88,NULL,NULL,Benign,Turkey
+56,4.9,NULL,NULL,135,NULL,NULL,Benign,Turkey
+56,4.8,1.1,NULL,26,NULL,NULL,Malign,Turkey
+64,NULL,NULL,NULL,42,NULL,NULL,Malign,Turkey
+61,6.11,1.5,NULL,NULL,NULL,NULL,Benign,Turkey
+58,10.3,1.76,NULL,NULL,NULL,NULL,Benign,Turkey
+58,5.05,0.76,NULL,54,NULL,NULL,Benign,Turkey
+60,9.7,NULL,NULL,60,NULL,NULL,Benign,Turkey
+63,7.55,NULL,NULL,70,NULL,NULL,Benign,Turkey
+65,4.16,0.89,NULL,NULL,NULL,NULL,Benign,Turkey
+58,12.44,2.16,NULL,24,NULL,NULL,Malign,Turkey
+55,11.8,1.1,NULL,19,NULL,NULL,Benign,Turkey
+60,4.37,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+57,14.05,2.31,NULL,130,NULL,NULL,Benign,Turkey
+56,7,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+63,6,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+62,6.37,1.03,NULL,47,NULL,NULL,Benign,Turkey
+55,4.62,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+61,4.74,0.72,NULL,NULL,NULL,NULL,Malign,Turkey
+52,10.87,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+59,7.97,1.68,NULL,50,NULL,NULL,Benign,Turkey
+61,5.5,1.05,NULL,36.47,NULL,NULL,Benign,Turkey
+63,8.43,1.8,NULL,NULL,NULL,NULL,Benign,Turkey
+58,4.18,1.17,NULL,110,NULL,NULL,Malign,Turkey
+54,10.5,NULL,NULL,150,NULL,NULL,Benign,Turkey
+64,20.84,4.27,NULL,63,NULL,NULL,Benign,Turkey
+60,6.89,NULL,NULL,71,NULL,NULL,Malign,Turkey
+61,11.51,3.91,NULL,NULL,NULL,NULL,Benign,Turkey
+62,9.26,NULL,NULL,72,NULL,NULL,Benign,Turkey
+62,15.5,2.67,NULL,37,NULL,NULL,Malign,Turkey
+NULL,NULL,NULL,NULL,18.3,NULL,NULL,No Tumor,Turkey
+NULL,NULL,NULL,NULL,55,NULL,NULL,No Tumor,Turkey
+62,7.25,NULL,NULL,26,NULL,NULL,Malign,Turkey
+64,4.27,NULL,NULL,70,NULL,NULL,Benign,Turkey
+61,156,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+55,6.41,1.71,NULL,54,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,59,NULL,NULL,No Tumor,Turkey
+56,7.83,NULL,NULL,105,NULL,NULL,Malign,Turkey
+65,14.92,5.5,NULL,41,NULL,NULL,Benign,Turkey
+56,8.25,NULL,NULL,22,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,No Tumor,Turkey
+63,6.1,0.69,NULL,29.7,NULL,NULL,Malign,Turkey
+52,4.55,1.01,NULL,NULL,NULL,NULL,Malign,Turkey
+64,4,0.51,NULL,28,NULL,NULL,Malign,Turkey
+63,14.83,NULL,NULL,121,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,25,NULL,NULL,No Tumor,Turkey
+65,10.73,2.53,NULL,NULL,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,33,NULL,NULL,No Tumor,Turkey
+57,5.5,0.67,NULL,24,NULL,NULL,Malign,Turkey
+60,4.45,NULL,NULL,31,NULL,NULL,Benign,Turkey
+55,6.62,0.72,NULL,24,NULL,NULL,Malign,Turkey
+60,6.94,1.32,NULL,43,NULL,NULL,Benign,Turkey
+58,16.81,2.42,NULL,68,NULL,NULL,Malign,Turkey
+57,9.9,NULL,NULL,46,NULL,NULL,Benign,Turkey
+61,9.59,NULL,NULL,97,NULL,NULL,Benign,Turkey
+65,3.8,3.03,NULL,NULL,NULL,NULL,Malign,Turkey
+47,9.34,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+64,8.14,1.96,NULL,53,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,137,NULL,NULL,No Tumor,Turkey
+61,4.85,0.19,NULL,33,NULL,NULL,Benign,Turkey
+51,6.37,1.55,NULL,NULL,NULL,NULL,Benign,Turkey
+60,4.91,NULL,NULL,62,NULL,NULL,Malign,Turkey
+56,6.18,1.16,NULL,34,NULL,NULL,Benign,Turkey
+56,5.68,NULL,NULL,37,NULL,NULL,Malign,Turkey
+65,4.01,0.8,NULL,45.7,NULL,NULL,Benign,Turkey
+55,6.71,1.73,NULL,NULL,NULL,NULL,Benign,Turkey
+62,6.7,NULL,NULL,79,NULL,NULL,Benign,Turkey
+65,7.6,NULL,NULL,65,NULL,NULL,Benign,Turkey
+64,4.19,NULL,NULL,48,NULL,NULL,Malign,Turkey
+60,65,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+59,6.47,0,NULL,32.78,NULL,NULL,Benign,Turkey
+57,5.2,1.5,NULL,59,NULL,NULL,Benign,Turkey
+65,4.84,NULL,NULL,48,NULL,NULL,Benign,Turkey
+60,13.61,1.74,NULL,40,NULL,NULL,Benign,Turkey
+61,8.3,NULL,NULL,39,NULL,NULL,Malign,Turkey
+55,4.21,0.86,NULL,27,NULL,NULL,Benign,Turkey
+54,15.6,1.78,NULL,NULL,NULL,NULL,Benign,Turkey
+64,4.41,0.7,NULL,41,NULL,NULL,Malign,Turkey
+54,4.68,0.79,NULL,NULL,NULL,NULL,Benign,Turkey
+59,13.8,4.05,NULL,140,NULL,NULL,Benign,Turkey
+63,13,NULL,NULL,45,NULL,NULL,Benign,Turkey
+58,6.2,NULL,NULL,36,NULL,NULL,Malign,Turkey
+61,17.49,NULL,NULL,80,NULL,NULL,Benign,Turkey
+65,1.25,NULL,NULL,20,NULL,NULL,Benign,Turkey
+59,5.93,0.97,NULL,32.27,NULL,NULL,Benign,Turkey
+58,24.9,1.07,NULL,28,NULL,NULL,Malign,Turkey
+61,4.7,NULL,NULL,63,NULL,NULL,Benign,Turkey
+65,18.4,NULL,NULL,70,NULL,NULL,Benign,Turkey
+62,13.84,2.07,NULL,91,NULL,NULL,Benign,Turkey
+59,5.11,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+61,6.45,NULL,NULL,26,NULL,NULL,Benign,Turkey
+59,7.04,1.24,NULL,32,NULL,NULL,Malign,Turkey
+62,11.45,NULL,NULL,103,NULL,NULL,Benign,Turkey
+58,4.47,2.32,NULL,NULL,NULL,NULL,Benign,Turkey
+61,4.53,NULL,NULL,24,NULL,NULL,Benign,Turkey
+48,3.9,0.68,NULL,NULL,NULL,NULL,Malign,Turkey
+49,4.44,1.04,NULL,112,NULL,NULL,Benign,Turkey
+60,10.54,NULL,NULL,78,NULL,NULL,Benign,Turkey
+56,14.2,NULL,NULL,61,NULL,NULL,Malign,Turkey
+57,4.71,1.31,NULL,43,NULL,NULL,Malign,Turkey
+58,8.91,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+55,4.05,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+56,4.8,NULL,NULL,23,NULL,NULL,Malign,Turkey
+57,5.41,NULL,NULL,NULL,NULL,NULL,Benign,Turkey
+51,4.13,0.64,NULL,41.34,NULL,NULL,Malign,Turkey
+64,33.54,7.71,NULL,111,NULL,NULL,Benign,Turkey
+57,4.99,0.66,NULL,29,NULL,NULL,Malign,Turkey
+60,5.85,NULL,NULL,NULL,NULL,NULL,Malign,Turkey
+65,4.04,1.65,NULL,NULL,NULL,NULL,Benign,Turkey
+65,0.45,0.12,NULL,34,NULL,NULL,Malign,Turkey
+60,12.43,2.42,NULL,NULL,NULL,NULL,Benign,Turkey
+52,13.6,3.04,NULL,60.03,NULL,NULL,Benign,Turkey
+62,7.63,1.54,NULL,75.25,NULL,NULL,Benign,Turkey
+65,4.98,1.37,NULL,53,NULL,NULL,Benign,Turkey
+62,17.15,4.48,NULL,80,NULL,NULL,Benign,Turkey
+62,10.06,NULL,NULL,33,NULL,NULL,Benign,Turkey
+62,8.6,NULL,NULL,38,NULL,NULL,Malign,Turkey
+49,26.9,NULL,NULL,168,NULL,NULL,Malign,Turkey
+64,5.6,1.4,NULL,134.23,NULL,NULL,Benign,Turkey
+NULL,NULL,NULL,NULL,32,NULL,NULL,No Tumor,Turkey
+50,1.19624,0.227239,1.10368,27.9597,,,No Tumor,SD
+50,1.21132,0.230903,1.11759,28.3121,,,No Tumor,SD
+50,1.2063,0.229679,1.11295,28.1947,,,No Tumor,SD
+50,1.2264,0.234587,1.1315,28.6646,,,No Tumor,SD
+50,1.25153,0.240771,1.15545,29.252,,,No Tumor,SD
+51,1.10577,0.205673,1.02021,25.8451,,,No Tumor,SD
+51,1.14598,0.215169,1.0573,26.7849,,,No Tumor,SD
+51,1.22138,0.233357,1.12686,28.5471,,,No Tumor,SD
+51,1.20127,0.228458,1.10832,28.0772,,,No Tumor,SD
+51,1.00525,0.182551,0.92746,23.4955,,,No Tumor,SD
+52,1.15603,0.217565,1.06658,27.0199,,,No Tumor,SD
+52,1.40735,0.280347,1.29844,32.8938,,,No Tumor,SD
+52,1.33195,0.260932,1.22889,31.1316,,,No Tumor,SD
+52,1.28672,0.249522,1.18715,30.0743,,,No Tumor,SD
+52,1.23143,0.235819,1.13614,28.782,,,No Tumor,SD
+53,1.20127,0.228458,1.10832,28.0772,,,No Tumor,SD
+53,1.19122,0.226022,1.09904,27.8422,,,No Tumor,SD
+53,1.25656,0.242014,1.15933,29.3694,,,No Tumor,SD
+53,1.27666,0.24701,1.17787,29.8393,,,No Tumor,SD
+53,1.30682,0.254571,1.2057,30.5442,,,No Tumor,SD
+54,1.32693,0.0310141,1.22425,31.0141,,,No Tumor,SD
+54,1.29174,0.250781,1.19179,30.1918,,,No Tumor,SD
+55,1.45226,0.267,1.33537,33.9442,,,No Tumor,SD
+55,1.35106,0.265806,1.2426,31.5788,,,No Tumor,SD
+55,1.06263,0.195642,0.9771,24.8373,,,No Tumor,SD
+55,1.61924,0.337582,1.4896,37.8472,,,No Tumor,SD
+55,1.46744,0.29618,1.34933,34.2991,,,No Tumor,SD
+57,1.36624,0.2697,1.25714,31.9336,,,No Tumor,SD
+57,1.4472,0.290813,1.33072,33.826,,,No Tumor,SD
+57,1.21443,0.231662,1.11669,28.3854,,,No Tumor,SD
+57,1.51804,0.309757,1.39586,35.4818,,,No Tumor,SD
+57,1.46238,0.294835,1.34468,34.1808,,,No Tumor,SD
+58,1.26503,0.244117,1.16321,29.5682,,,No Tumor,SD
+58,1.32575,0.25936,1.21933,30.9874,,,No Tumor,SD
+58,1.37636,0.272308,1.26558,32.1702,,,No Tumor,SD
+58,1.35612,0.267102,1.24697,31.6971,,,No Tumor,SD
+58,1.346,0.264512,1.23766,31.4605,,,No Tumor,SD
+58,1.43202,0.28681,1.31676,33.4712,,,No Tumor,SD
+59,1.28021,0.247898,1.17717,29.923,,,No Tumor,SD
+59,1.46744,0.29618,1.34933,34.2991,,,No Tumor,SD
+59,1.50286,0.30566,1.3819,35.127,,,No Tumor,SD
+59,1.45226,0.292151,1.33537,33.9442,,,No Tumor,SD
+59,1.29539,0.251698,1.19141,30.2778,,,No Tumor,SD
+70,2.61971,0.540638,2.59383,36.7219,,,No Tumor,SD
+70,2.62698,0.542642,2.60103,36.824,,,No Tumor,SD
+70,2.84319,0.603532,2.71286,39.8714,,,No Tumor,SD
+70,2.82752,0.599043,2.69791,39.6518,,,No Tumor,SD
+70,2.83535,0.601286,2.70539,39.7616,,,No Tumor,SD
+71,2.84319,0.603532,2.71286,39.8714,,,No Tumor,SD
+71,2.83065,0.59994,2.70056,39.6957,,,No Tumor,SD
+72,2.51493,0.346192,2.49008,36.7219,,,No Tumor,SD
+72,2.48,0.341381,2.4555,36.2119,,,No Tumor,SD
+72,2.54287,0.35004,2.51775,37.13,,,No Tumor,SD
+72,2.64067,0.363511,2.61459,38.558,,,No Tumor,SD
+73,2.59876,0.357738,2.57309,37.946,,,No Tumor,SD
+73,2.57082,0.353889,2.54542,37.538,,,No Tumor,SD
+73,2.52191,0.347154,2.497,36.824,,,No Tumor,SD
+73,2.53589,0.349078,2.5109,37.028,,,No Tumor,SD
+73,2.59876,0.357738,2.57309,37.946,,,No Tumor,SD
+74,2.68767,0.369984,2.65511,39.2453,,,No Tumor,SD
+74,2.65961,0.366118,2.62738,38.8354,,,No Tumor,SD
+74,2.63855,0.363218,2.60658,38.528,,,No Tumor,SD
+74,2.66662,0.367084,2.63431,38.9379,,,No Tumor,SD
+74,2.62452,0.361285,2.59272,38.3231,,,No Tumor,SD
+75,2.63855,0.363218,2.60658,38.528,,,No Tumor,SD
+75,2.69469,0.370951,2.66204,39.3478,,,No Tumor,SD
+75,2.70873,0.372884,2.67591,39.5527,,,No Tumor,SD
+75,2.62662,0.361575,2.5948,38.3538,,,No Tumor,SD
+76,2.68276,0.369307,2.65034,39.1736,,,No Tumor,SD
+76,2.72206,0.37472,2.68908,39.7474,,,No Tumor,SD
+76,2.72978,0.375783,2.6967,39.8601,,,No Tumor,SD
+76,2.70592,0.372497,2.67313,39.5117,,,No Tumor,SD
+77,2.70789,0.372768,2.6741,39.5406,,,No Tumor,SD
+77,2.68682,0.369866,2.65329,39.2329,,,No Tumor,SD
+77,2.75985,0.379925,2.72542,40.2994,,,No Tumor,SD
+77,2.74932,0.378474,2.71501,40.1456,,,No Tumor,SD
+77,2.75564,0.379345,2.72126,40.2379,,,No Tumor,SD
+78,2.68736,0.369941,2.65286,39.2411,,,No Tumor,SD
+78,2.68244,0.369264,2.64801,39.1692,,,No Tumor,SD
+78,2.75483,0.379233,2.71946,40.2262,,,No Tumor,SD
+78,2.71758,0.374103,2.68269,39.6823,,,No Tumor,SD
+79,2.68526,0.369651,2.65078,39.2103,,,No Tumor,SD
+79,2.78997,0.384073,2.75415,40.7393,,,No Tumor,SD
+79,2.70564,0.372458,2.6709,39.5079,,,No Tumor,SD
+79,2.64801,0.364521,2.61401,38.6664,,,No Tumor,SD
+79,2.6199,0.360649,2.58626,38.2559,,,No Tumor,SD
+80,2.76788,0.381031,2.72935,40.4172,,,No Tumor,SD
+80,2.79816,0.385202,2.75922,40.8594,,,No Tumor,SD
+80,2.79323,0.384523,2.75436,40.7875,,,No Tumor,SD
+80,2.84746,0.391993,2.80783,41.5793,,,No Tumor,SD
+80,2.86437,0.394321,2.8245,41.8262,,,No Tumor,SD
+47,1.24752,0.171692,1.23899,21.8579,,,No Tumor,SD
+47,1.11742,0.153789,1.10978,22.8413,,,No Tumor,SD
+47,1.06138,0.146074,1.05412,21.6957,,,No Tumor,SD
+48,1.04699,0.144094,1.03983,21.4017,,,No Tumor,SD
+48,1.02666,0.141294,1.01964,20.986,,,No Tumor,SD
+48,1.05146,0.144708,1.04427,21.493,,,No Tumor,SD
+49,1.11097,0.152902,1.10338,22.7095,,,No Tumor,SD
+49,1.09808,0.151126,1.09057,22.4459,,,No Tumor,SD
+49,1.12784,0.155223,1.12012,23.0542,,,No Tumor,SD
+62,1.4757,0.2746,1.3572,25.8736,,,No Tumor,SD
+62,1.7812,0.3493,1.6378,31.2305,,,No Tumor,SD
+62,1.95017,0.393226,1.7932,34.19,,,No Tumor,SD
+62,1.7393,0.3386,1.5994,30.5,,,No Tumor,SD
+62,3.1617,0.7633,2.9079,55.44,,,No Tumor,SD
+62,3.0862,0.7374,2.8378,51.1,,,No Tumor,SD
+62,2.4793,0.543,2.2798,43.47,,,No Tumor,SD
+62,1.9007,0.3801,1.7477,33.33,,,No Tumor,SD
+62,2.25987,0.4787,2.0780,39.62,,,No Tumor,SD
+62,2.537447,0.629187,2.5357,48.3516,,,No Tumor,SD
+63,1.346,0.2447,1.2377,236,,,No Tumor,SD
+63,1.7768,0.3481,1.6337,31.1525,,,No Tumor,SD
+63,1.40206,0.257467,1.2892,24.5829,,,No Tumor,SD
+63,2.29036,0.487412,2.1060,40.1579,,,No Tumor,SD
+63,2.58879,0.576293,2.3804,45.3903,,,No Tumor,SD
+63,1.3751,0.25129,1.2644,24.1102,,,No Tumor,SD
+64,2.4539,0.535395,2.2564,43.0253,,,No Tumor,SD
+64,2.45938,0.537032,2.2614,43.1213,,,No Tumor,SD
+64,2.29362,0.48835,2.1090,40.215,,,No Tumor,SD
+64,2.68113,0.604981,2.4653,47.0094,,,No Tumor,SD
+64,1.88381,0.37574,1.7322,33.0297,,,No Tumor,SD
+65,1.52625,0.286497,1.4034,26.7604,,,No Tumor,SD
+65,2.35716,0.506799,2.1674,41.3291,,,No Tumor,SD
+65,2.50802,0.551659,2.3062,43.9741,,,No Tumor,SD
+65,1.23672,0.220388,1.1372,21.6839,,,No Tumor,SD
+61,3.01256,0.712559,3.1697,52.8205,,,No Tumor,SD
+61,3.21778,0.782788,1.7734,56.3021,,,No Tumor,SD
+61,1.70027,0.328882,2.1688,29.8116,,,No Tumor,SD
+61,2.46074,0.53744,2.6457,43.1453,,,No Tumor,SD
+61,1.76459,0.345052,1.6514,30.9394,,,No Tumor,SD
+60,2.41712,0.524451,2.22258,42.3805,,,No Tumor,SD
+60,2.46857,0.539783,2.26988,43.2824,,,No Tumor,SD
+60,2.46857,0.539783,2.26988,43.2824,,,No Tumor,SD
+60,2.06711,0.424745,1.90074,36.2436,,,No Tumor,SD
+60,2.26343,0.479677,2.08125,39.6856,,,No Tumor,SD
+60,1.90074,0.380174,1.74776,33.3266,,,No Tumor,SD
+60,2.33504,0.500346,2.1471,40.9412,,,No Tumor,SD
+60,1.55228,0.292712,1.42734,27.2168,,,No Tumor,SD
+60,2.10243,0.43444,1.93321,36.8628,,,No Tumor,SD
+61,1.71451,0.332437,1.57651,30.0612,,,No Tumor,SD
+61,1.60983,0.306605,1.48026,28.2258,,,No Tumor,SD
+61,2.41293,0.523207,2.21872,42.3069,,,No Tumor,SD
+61,1.96454,0.397052,1.80642,34.4452,,,No Tumor,SD
+61,2.26137,0.479088,2.07936,39.6496,,,No Tumor,SD
+66,2.36469,0.509002,2.17436,41.4611,,,No Tumor,SD
+66,3.45175,0.866229,3.17393,60.521,,,No Tumor,SD
+66,3.51354,0.888866,3.23074,61.6044,,,No Tumor,SD
+66,1.42395,0.26251,1.30934,24.9667,,,No Tumor,SD
+66,3.44871,0.865124,3.17114,60.4678,,,No Tumor,SD
+66,2.13733,0.444103,1.96531,37.4748,,,No Tumor,SD
+66,2.19894,0.461353,2.02195,38.5549,,,No Tumor,SD
+66,1.30375,0.235204,1.19881,22.8592,,,No Tumor,SD
+66,2.49638,0.548144,2.29545,43.77,,,No Tumor,SD
+66,3.3009,0.812019,3.03522,57.876,,,No Tumor,SD
+67,2.5616,0.567952,2.35542,44.9136,,,No Tumor,SD
+67,3.04046,0.721943,2.79574,53.3096,,,No Tumor,SD
+67,2.3864,0.515377,2.19433,41.8418,,,No Tumor,SD
+67,3.11951,0.748813,2.86843,54.6957,,,No Tumor,SD
+67,2.61633,0.58479,2.40575,45.8732,,,No Tumor,SD
+67,1.79176,0.351963,1.64755,31.4157,,,No Tumor,SD
+67,2.09867,0.433404,1.92975,36.7969,,,No Tumor,SD
+67,1.35976,0.247809,1.25031,23.8412,,,No Tumor,SD
+67,3.40065,0.847699,3.12694,59.6251,,,No Tumor,SD
+68,1.50711,0.281958,1.38581,26.4248,,,No Tumor,SD
+68,2.5074,0.551474,2.30559,43.9634,,,No Tumor,SD
+68,1.64906,0.316201,1.51633,28.9136,,,No Tumor,SD
+68,2.8554,0.660649,2.62558,50.065,,,No Tumor,SD
+68,1.69855,0.328454,1.56184,29.7815,,,No Tumor,SD
+68,1.52714,0.28671,1.40423,26.7761,,,No Tumor,SD
+68,1.99872,0.406202,1.83785,35.0444,,,No Tumor,SD
+68,2.60607,0.581618,2.39631,45.6933,,,No Tumor,SD
+68,3.11784,0.748242,2.8669,54.6665,,,No Tumor,SD
+69,1.96051,0.395977,1.80271,34.3745,,,No Tumor,SD
+69,2.09183,0.431522,1.92346,36.6769,,,No Tumor,SD
+69,1.96858,0.398128,1.81014,34.516,,,No Tumor,SD
+69,1.35085,0.24579,1.24212,23.685,,,No Tumor,SD
+69,1.55586,0.29357,1.43064,27.2796,,,No Tumor,SD
+69,2.52482,0.556748,2.3216,44.2687,,,No Tumor,SD
+69,3.22969,0.786948,2.96974,56.6275,,,No Tumor,SD
+69,2.12796,0.441499,1.95668,37.3104,,,No Tumor,SD
+70,1.64203,0.314475,1.50987,28.7904,,,No Tumor,SD
+70,2.5686,0.570096,2.36186,45.0364,,,No Tumor,SD
+70,2.63324,0.590033,2.4213,46.1697,,,No Tumor,SD
+70,1.01274,0.184244,0.931225,23.6711,,,No Tumor,SD
+70,2.91191,0.697676,2.67753,54.4568,,,No Tumor,SD
+70,2.08732,0.439814,1.91931,39.0358,,,No Tumor,SD
+70,1.69166,0.333,1.55551,31.6365,,,No Tumor,SD
+70,2.15344,0.458734,1.98011,40.2723,,,No Tumor,SD
+70,1.55149,0.297789,1.42662,29.0152,,,No Tumor,SD
+70,1.94928,0.401303,1.79239,36.4543,,,No Tumor,SD
+70,1.78417,0.350027,1.64057,31.2826,,,No Tumor,SD
+61,2.55883,0.567105,2.35287,44.865,,,No Tumor,SD
+61,2.23013,0.470182,2.05064,39.1019,,,No Tumor,SD
+61,1.72851,0.335947,1.58939,30.3067,,,No Tumor,SD
+61,2.45175,0.534753,2.25442,42.9876,,,No Tumor,SD
+64,2.54215,0.562018,2.33754,44.5727,,,No Tumor,SD
+64,2.72945,0.620215,2.50976,47.8566,,,No Tumor,SD
+64,2.11265,0.437261,1.94261,37.0419,,,No Tumor,SD
+64,2.8686,0.664945,2.63772,50.2964,,,No Tumor,SD
+65,3.52653,0.89366,3.24269,61.8322,,,No Tumor,SD
+65,3.14104,0.756203,2.88823,55.0732,,,No Tumor,SD
+65,1.31495,0.243383,1.20911,25.3594,,,No Tumor,SD
